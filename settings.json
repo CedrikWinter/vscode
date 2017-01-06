@@ -1,1 +1,15 @@
-/home/mppe/winterc/.config/Code/User/settings.json
+// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut
+{
+  "editor.fontFamily": "'Monaco'",
+  "editor.fontWeight": "normal",
+  "editor.fontSize": 14,
+  "editor.lineNumbers": "on",
+  "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.quickSuggestions": true,
+  "editor.quickSuggestionsDelay": 10,
+  "emmet.triggerExpansionOnTab": true,
+  "html.format.wrapLineLength": 120,
+  "editor.renderIndentGuides": true
+}
